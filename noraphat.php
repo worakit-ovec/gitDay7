@@ -6,7 +6,7 @@
     <title>Document</title>
 </head>
 <body>
-    <h2>i am worakit</h2>
-    <h2>i am teacher</h2>
+    <h2>i am ไอ้นิค</h2>
+    <h2>i am นักศึกษา</h2>
 </body>
 </html>
