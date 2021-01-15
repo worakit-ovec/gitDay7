@@ -12,6 +12,7 @@
     <h2>i am not napat</h2>
     <h2>i am not student</h2>
     <h2>i am super not money</h2>
-    <h2>i am black desert</h2>
+    <h2>ผมหิวข้าว</h2>
+    <h2>ผมง่วง</h2>
 </body>
 </html>
