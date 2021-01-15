@@ -6,7 +6,7 @@
     <title>Document</title>
 </head>
 <body>
-    <h2>i am patsawut</h2>
-    <h2>i am student</h2>
+    <h2>ดีจ้าาาา</h2>
+    <h2>ดีจ้าาาา2</h2>
 </body>
 </html>
