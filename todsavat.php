@@ -7,6 +7,6 @@
 </head>
 <body>
     <h2>i am todsavat</h2>
-    <h2>i am todsavat</h2>
+    <h2>i am students</h2>
 </body>
 </html>
