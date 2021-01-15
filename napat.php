@@ -9,5 +9,8 @@
     <h2>i am napat</h2>
     <h2>i am student</h2>
     <h2>i am not money</h2>
+    <h2>i am not napat</h2>
+    <h2>i am not student</h2>
+    <h2>i am super not money</h2>
 </body>
 </html>
