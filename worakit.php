@@ -8,5 +8,7 @@
 <body>
     <h2>i am worakit</h2>
     <h2>i am worakit</h2>
+    <h2>ทดสอบ1</h2>
+    <h2>ทดสอบ2</h2>
 </body>
 </html>
